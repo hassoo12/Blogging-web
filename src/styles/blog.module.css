@@ -1,0 +1,26 @@
+/* styles/blog.module.css */
+.heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    }
+    
+    .blogList {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    }
+    
+    .blog {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    }
+    
+    .blog h2 {
+    margin: 0;
+    }
+    
+    .blog p {
+    margin: 5px 0;
+    }
+    

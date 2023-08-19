@@ -1,0 +1,60 @@
+/* styles/dashboard.module.css */
+.heading {
+    font-size: 24px;
+    margin-bottom: 20px;
+    }
+    
+    .blogForm {
+    border: 1px solid #ccc;
+    padding: 20px;
+    margin-bottom: 20px;
+    }
+    
+    .blogForm h2 {
+    margin: 0;
+    margin-bottom: 10px;
+    }
+    
+    .blogForm label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    }
+    
+    .blogForm input,
+    .blogForm textarea {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    }
+    
+    .blogForm button {
+    padding: 8px 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    }
+    
+    .blogList {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    }
+    
+    .blog {
+    border: 1px solid #ccc;
+    padding: 10px;
+    background-color: #f9f9f9;
+    }
+    
+    .blog h3 {
+    margin: 0;
+    }
+    
+    .blog p {
+    margin: 5px 0;
+    }
+
+   
